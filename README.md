@@ -13,7 +13,7 @@ Here are a little tutorial for the script:
 	3. use pip install to install moduls
 	4. check if APIKey_file.txt is up to date
 	5. cd to the directory where the script and API-Key file is
-	5. run script  (python getPlayerStats.py APIKey_file.txt "THD BlackOrl" "Normal")
+	5. run script  (python getPlayerStats.py APIKey_file.txt "RandomGuy" "Normal")
 						filepath of API-key playername	queue	 	
 
 Files in Directory:
